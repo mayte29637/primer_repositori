@@ -15,27 +15,27 @@ Montar un ordenador de escritorio desde cero conectando correctamente todos los 
 ## Procedimiento 
 1. **Preparación de la placa base:** Instalar el procesador (CPU) en el zócalo correspondiente alineando las marcas de posición, aplicar la pasta térmica (si el disipador no la incluye preaplicada) y fijar el sistema de refrigeración.
 
-![alt text](image-14.png)
+![alt text](image.png)
 
 2. **Instalación de memoria RAM y almacenamiento M.2** Insertar los módulos de memoria RAM en las ranuras recomendadas (habitualmente ranuras 2 y 4 para *Dual Channel*) e instalar la unidad SSD NVMe M.2 asegurándola con su tornillo.
 
-![alt text](image-18.png)
+![alt text](image-1.png)
 
 3. **Montaje en el chasis:** Montar la fuente de alimentación (PSU) en la caja y fijar la placa base utilizando los tornillos separadores (*standoffs*) de latón para evitar cortocircuitos.
 
-![alt text](image-24.png)
+![alt text](image-2.png)
 
 4. **Conexión de cableado:** Conectar la alimentación principal (ATX 24 pines), la alimentación de la CPU (4/8 pines EPS), los cables del panel frontal (botón de encendido, LED, puertos USB) y los conectores PCI-Express de la tarjeta gráfica si corresponde.
 
-![alt text](image-19.png)
+![alt text](image-3.png)
 
 5. **Primera puesta en marcha y BIOS/UEFI:** Enchufar el monitor, teclado y cable de corriente. Encender el equipo y pulsar la tecla `DEL` o `F2` para acceder a la BIOS/UEFI y verificar que reconoce la totalidad de la memoria y el disco duro.
 
-![alt text](image-23.png)
+![alt text](image-4.png)
 
 6. **Instalación del Sistema Operativo:** nsertar el pendrive de arranque, seleccionar la unidad USB en el menú de inicio (*Boot Menu*) e iniciar el asistente de instalación del SO.
 
-![alt text](image-20.png)
+![alt text](image-5.png)
 
  
  ## Incidencias y soluciones
