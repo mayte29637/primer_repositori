@@ -55,7 +55,9 @@ Montar un ordenador de escritorio desde cero conectando correctamente todos los 
 - []Todos los ventiladores (chasis, disipador de CPU y fuente) giran correctamente y sin ruidos extraños.
 - []El sistema operativo inicia correctamente, se detecta la tarjeta de red (cable o Wi-Fi) y hay conexión a Internet.
 
-## Recursos![Uploading 6a8baa61-9dae-48c0-a8cb-1fbc127a56b0.png…]()raci%C3%B3n-de-Sistema-Operativo)
+## Recursos
+https://blog.jetcomputer.net/como-montar-un-pc/?srsltid=AU7gw4V8dSo-Sto8QJv5JivYlALBtyDTis8ajq6Q727XATR6IqfhHsdH
+ttps://help.pccomponentes.com/hc/es-es/articles/30377918118685-Instalaci%C3%B3n-y-migraci%C3%B3n-de-Sistema-Operativo
 
 ## Comandos de comprobación
  - sudo lshw 
