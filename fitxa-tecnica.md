@@ -57,7 +57,6 @@ Montar un ordenador de escritorio desde cero conectando correctamente todos los 
 
 ## Recursos
 https://blog.jetcomputer.net/como-montar-un-pc/?srsltid=AU7gw4V8dSo-Sto8QJv5JivYlALBtyDTis8ajq6Q727XATR6IqfhHsdH
-ttps://help.pccomponentes.com/hc/es-es/articles/30377918118685-Instalaci%C3%B3n-y-migraci%C3%B3n-de-Sistema-Operativo
 
 ## Comandos de comprobación
  - sudo lshw 
